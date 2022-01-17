@@ -1,21 +1,37 @@
-- noun 
-- verb 
-- adjective
-- adverb 
-- Preposition 
-
 src;https://www.englishclub.com/grammar/prepositions-list.htm
-
-# Noun
+## Noun
 Adalah kata yang menamai sesuatu, Seperti orang, tempat, benda atau sebuah ide. 
 Didalam kalimat, nouns berperan sebagai subject, direct object, indirect object, 
 subject complement, object complement, appositive, atau adjective 
 
 Src: https://www.grammarly.com/blog/nouns/ 
 
-# Verb 
+## Verb 
+Menunjukan tindakan atau keadaan: 
+- Action Verb : menunjukan tindakan atau kepemilikan dan dilakukan 
+dengan direct object, co : take, give, ride 
 
-# Adjective 
+- Action verb : menunjukan tindakan tidak diikuti dengan direct object 
+co: arrive, rise, wait, 
+
+- Linking verb : penghubung subjek dan deskripsinya Be, taste, remain 
+
+
+## Adjective 
+
+adalah kata sifat yang digunakan untuk memberi keterangan pada noun 
+/ pronoun Co : sad, faithful 
+
+## Adverb 
+
+Fungsi untuk memberi keterangan tambahan pada verb, adjective, atau 
+adverb, jenis-jenis: 
+
+- Adverb of manner = well, sofly, quickly 
+- Adverb of degree = just, almost, so 
+- Adverb of frequency = usually, rarely
+- Adverb of place = in, above, below 
+- Adverb of time = Daily, yesterday 
 
 # Adverb 
 
@@ -80,13 +96,11 @@ SRC: https://www.grammarly.com/blog/adverb/
 # Preposition 
 
 digunakan untuk menunjuk jalan, tempat dan waktu
-
 preposition digunakan untuk menunjuk object. 
 contoh:
 
 at night
 above you
-
 
 What Is a Preposition?
 “Vampires! Zombies! Werewolves!”
@@ -173,6 +187,12 @@ Get rid of the up. You don’t need it:
 Alex hit the baseball over the fence.
 
 src: https://www.grammarly.com/blog/prepositions/
+
+## Conjunctions 
+
+Menghubungkan klausa (Kalimat tanpa tanda baca) dan kalimat
+
+Jenis: 
 
 #note
 
