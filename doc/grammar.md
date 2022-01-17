@@ -193,8 +193,23 @@ src: https://www.grammarly.com/blog/prepositions/
 Menghubungkan klausa (Kalimat tanpa tanda baca) dan kalimat
 
 Jenis: 
+- coordinating conjunction 
+menghubungkan dua bentuk tata bahasa yang sama, contoh 
+> for, and, nor, but, or, yet 
 
-#note
+- Subordinating conuntion 
+Menghubungkan induk kalimat dan anak kalimat (after, since)
+
+- correlative conjuntion
+Kata hubung yang berpasangan (not only .. but also, either ... or)
+
+## Interjection 
+kata yang digunakan untuk menggunakan emosi ( tidak dapat diartikan)
+
+co: oops, whoa
+
+
+## note
 
 Nouns name people, places, things, or ideas. 
 Pronouns take the place of nouns. 
