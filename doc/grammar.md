@@ -208,6 +208,69 @@ kata yang digunakan untuk menggunakan emosi ( tidak dapat diartikan)
 
 co: oops, whoa
 
+## Figurative language
+
+adalah frasa yang berbeda dengan makna literal dari kata untuk mendapatkan 
+pesan atau inti seperti simile, metaphore 
+
+### Simile 
+
+adalah ungkapan yang membandingkan dua konsep seperti 'like' atau 'as'
+> He was will as a fox
+
+### Metaphor 
+seperti simile, tapi tanpa kata hubung. 
+"He was a wily fox"
+
+### Hyperbole
+adalah melebih-lebihkan sesuatu 
+> I have a million thing to do 
+
+### Idom 
+adalah phrasa yang sering kita gunakan dan orang lain sering gunakan 
+hanya orang yang hidup dilinkungan itu akan paham. 
+> he stole her thunde 
+
+### Diction 
+adalah phrasa yang sering kita gunakan dalam ungkapan atau penulisan 
+
+## Slang 
+adalah bahasa gaul 
+
+- hey, brat, nice to meet ya
+- that brat, make a fun of me 
+- - of course you should go! yolo!
+
+## Kalimat sederhana 
+- Memiliki struktur yang sepadan 
+Keseimbangan antara gagasan dengan struktur yang dipakai. 
+
+- Memiliki subjek dan predikat yang jelas 
+Dengan menghindari penggunaan kata depan sebelum penyebutan subjek 
+
+- Tidak terdapat subjek ganda 
+Subjek ganda dapat membuat kalimat menjadi tidak terfokus sehingga 
+makanannya sulit dipahami
+
+- Predikat kalimat tidak didahuli oleh kata 'yang'
+
+- Bentuknya pararel 
+Kalimat efektif harus memiliki bentuk yang paralel. Artinya, kalau bentuk pertama menggunakan kata benda, maka bentuk selanjutnya juga harus menggunakan kata benda. Kalau bentuk pertama menggunakan kata kerja, maka bentuk selanjutnya juga harus menggunakan kata kerja.
+
+### Ciri kalimat efektif 
+
+1. Memuat Unsur Kalimat Minimal Subjek dan Predikat Struktur kalimat efektif harus mengandung unsur kalimat, minimal subjek dan predikat. Contoh: Rangga belajar di kamar. Subjek kalimat tersebut adalah ‘Rangga’ dan predikatnya yaitu ‘belajar.’
+
+2. Hemat Kata Kalimat efektif harus hemat kata. Artinya, dalam penyusunan kalimat efektif, penggunaan kata, frasa, atau bentuk lain yang tidak diperlukan harus dihindari. - Hindari pengulangan subjek. Jika subjek dalam sebuah kalimat hanya satu, penyebutannya tidak perlu diulang. Contoh kalimat tidak efektif (salah): Karena dia sakit, dia tidak masuk sekolah. Contoh kalimat efektif (benar): Karena sakit, dia tidak masuk sekolah.
+
+- Hindari sinonim kata. Jika dalam sebuah kalimat terdapat dua kata yang memiliki arti sama, gunakan salah satu saja. Contoh kalimat tidak efektif (salah): Dia rajin berlatih agar supaya menang. Contoh kalimat efektif (benar): Dia rajin berlatih agar menang. - Perhatikan bentuk kata jamak. Jika sebuah kata sudah memiliki makna jamak, tidak perlu ditambahkan kata yang bermakna jamak lagi. Contoh kalimat tidak efektif (salah): Para hadirin dimohon berdiri. Contoh kalimat efektif (benar): Hadirin dimohon berdiri. 3. Makna yang Tepat Kalimat efektif hanya memiliki satu makna, tidak ambigu ataupun menyimpang. Oleh sebab itu, perlu diperhatikan penggunaan kata atau diksinya. Contoh: Mahasiswa perguruan tinggi yang terkenal itu menerima hadiah
+
+Kalimat tersebut membuat pembaca menjadi bingung, siapa yang terkenal? Mahasiswanya atau perguruan tingginya? Supaya efektif, kalimat ini dapat diubah menjadi salah satu dari dua bentuk berikut, sesuai dengan makna yang dituju: - Mahasiswa yang terkenal itu menerima hadiah. - Mahasiswa dari perguruan tinggi terkenal itu menerima hadiah 4. Kelogisan Bahasa Kalimat efektif harus memiliki kelogisan bahasa. Artinya, ide pada kalimat efektif tersebut dapat diterima oleh akal dan penulisannya sesuai dengan ejaan yang berlaku. Contoh: Waktu dan tempat kami persilakan. Kalimat di atas tidak efektif sebab makna yang terkandung tidak logis. Apakah waktu dan tempat itu bisa dipersilakan? Seharusnya, kalimat tersebut diubah menjadi “Untuk bapak/ibu A (nama) kami persilakan.” 5. Menggunakan Ejaan dan Kaidah Kebahasaan yang Baku Penulisan kalimat efektif bahasa Indonesia mengacu pada Pedoman Umum Ejaan Bahasa Indonesia (PUEBI) atau Kamus Besar Bahasa Indonesia (KBBI). Contoh : Ibuku memperjuangkan karirnya dengan baik. Jika mengacu pada PUEBI, kalimat tersebut termasuk kalimat tidak efektif karena kata ‘karir’ tidak sesuai dengan ejaan yang benar. Seharusnya ditulis dengan ‘karier.’
+
+Artikel ini telah tayang di Katadata.co.id dengan judul "Contoh, Syarat dan Ciri-ciri Kalimat Efektif dalam Bahasa Indonesia" , https://katadata.co.id/safrezi/berita/61a88a78b8c8b/contoh-syarat-dan-ciri-ciri-kalimat-efektif-dalam-bahasa-indonesia
+Penulis: Niken Aninsi
+Editor: Safrezi
+
 
 ## note
 
