@@ -97,6 +97,29 @@ contoh: my grandfather **had** retired from his job
 - masa lalu
 - masa depan
 
+1. verb 1 (present) (simple present tense)
+bentuknya sama dengan kata kerja asal. biasannya diakhiri (-s, -es, -ies) untuk subject orang ketiga (he,she,it) (sleep, sleeps)
+(saat ini)
+
+2. verb 2 (past)
+
+biasannya di kalimat simple past tense pada waktu yang sudah lewat. ditambahkan dengan keterangan waktu biasa berakhir (-d, -ed) (last night, yesterday)
+
+- regular verb biasannya berakhiran (-d / -ed)
+- irregular verb terjadi perubahan huruf (begin, began) (eat, ate)
+
+3. verb 3 (past participle)
+
+verb 2 dan verb 3 bisa dibilang mirip digunakan untuk kalimat perfect tense dan passive voice 
+
+** Jenis verb 3 **
+
+- action verbs
+kata kerja yang mengekpresikan sebuah tindakan (raise his hand)
+
+- modal verbs 
+helping verbs adalah kata yang sebelum 
+
 ## Adjective 
 
 adalah kata sifat yang digunakan untuk memberi keterangan pada noun 
