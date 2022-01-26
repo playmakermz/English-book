@@ -1,5 +1,33 @@
 src;https://www.englishclub.com/grammar/prepositions-list.htm
+## grammatical hierarchy 
+
+- sentence ( simple, compund, complex )
+- clause ( sv, svo, svc, sva, svoo, svoc, svoa )
+- phrases (vp, vp, adjp, advp, pp)
+- words ( verb, noun, adjective, adverb, preposition,conjuntion,
+det, aux)
+- morphemes ( prefix, roots, suffixes )
+
 ## Noun
+
+> concrate noun ( Kata benda yang berwujud )
+adalah kata benda yang berwujud 
+1. Material noun ( kata benda material )
+Menyatakan bahan ( air, emas, besi )
+2. collective noun (kolektife)
+menyatukan suatu kumpulan / kelompok ( audience, team, fleet, crowd )
+3. proper noun ( kata benda nama diri )
+kata benda yang menunjuk orang, tempat atau kejadian tertentu. 
+diawali dengan huruf besar (tokyo (nama kota), budi (nama orang))
+4. common noun ( kata benda umum )
+menunjukan suatu kata benda umum ( pensil, shop, market )
+5. Abstract noun 
+adalah kata benda yang tidak berwujud, hanya bisa dibayangkan
+kata sifat | kata kerja | kata benda
+--- | --- | --- |
+dullness |  recovery | friendship
+
+
 Adalah kata yang menamai sesuatu, Seperti orang, tempat, benda atau sebuah ide. 
 Didalam kalimat, nouns berperan sebagai subject, direct object, indirect object, 
 subject complement, object complement, appositive, atau adjective 
