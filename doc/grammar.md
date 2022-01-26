@@ -1,5 +1,5 @@
 src;https://www.englishclub.com/grammar/prepositions-list.htm
-## grammatical hierarchy 
+# grammatical hierarchy 
 
 - sentence ( simple, compund, complex )
 - clause ( sv, svo, svc, sva, svoo, svoc, svoa )
@@ -10,7 +10,7 @@ det, aux)
 
 ## Noun
 
-> concrate noun ( Kata benda yang berwujud )
+concrate noun ( Kata benda yang berwujud )
 adalah kata benda yang berwujud 
 1. Material noun ( kata benda material )
 Menyatakan bahan ( air, emas, besi )
@@ -23,9 +23,11 @@ diawali dengan huruf besar (tokyo (nama kota), budi (nama orang))
 menunjukan suatu kata benda umum ( pensil, shop, market )
 5. Abstract noun 
 adalah kata benda yang tidak berwujud, hanya bisa dibayangkan
+
 kata sifat | kata kerja | kata benda
 --- | --- | --- |
 dullness |  recovery | friendship
+
 6. regular nouns 
 merupakan kata benda yang perubahan bentuk jamaknya beraturan
 (pencil, pencils), (boy, boys)
@@ -46,6 +48,7 @@ Src: https://www.grammarly.com/blog/nouns/
 
 ## Verb 
 Menunjukan tindakan atau keadaan: 
+
 - Action Verb : menunjukan tindakan atau kepemilikan dan dilakukan 
 dengan direct object, co : take, give, ride 
 
@@ -63,7 +66,36 @@ Kata yang bisa menyatakan tindakan / aksi verb bisa berubah bentuk
 - past form (-ed)
 - present participle (-ing) : swimming, walking
 
+action maupun auxiliary verb untuk memperjelas informasi tambahan mengenai suatu kemungkinan ataupun keeterangan waktu "cellia **is** (modal verb ) **going** (action verb) to new york"
 
+** Auxiliary verb **
+kata yang menghubungkan suatu object dengan benda atau kata sifat 
+contoh: 
+"we **are** your new neioghbors"
+
+Auxiliar verb adalah kata pembantu untuk melengkapi kata kerja utama dalam kalimat. 
+memperjelas kata kerja
+
+- **Be** ( am, is, are, was, were )
+digunakan untuk menerangkan kata kerja, bendam present participle
+contoh: i **am** he **was**
+        i **was** he **is**
+
+- **Do** (does, did, done)
+berfungsi untuk menekankan perasaan / kata kerja didepannya 
+contoh: **don't** forget to bring money 
+        we **don't** have a time 
+
+- **have** (had, has)
+1. have digunakan untuk present, dan future perfect
+2. has digunakan untuk present perfect
+3. had digunakan untuk past perfect
+contoh: my grandfather **had** retired from his job
+
+**definisi** verb adalah kata yang mendeskripsikan aksi, tindakan, kondisi atau pengalaman penggunaanwaktu: ( pekerjaa yang dilakukan )
+- saat ini 
+- masa lalu
+- masa depan
 
 ## Adjective 
 
@@ -80,8 +112,6 @@ adverb, jenis-jenis:
 - Adverb of frequency = usually, rarely
 - Adverb of place = in, above, below 
 - Adverb of time = Daily, yesterday 
-
-# Adverb 
 
 Adverb adalah kata yang digunakan untuk menjelaskan / modifies dari verb. 
 Adverb biasaanya berakhiran dengan -ly, akan tetapi beberapa seperti ( such as fast)
@@ -125,7 +155,9 @@ adverb adalah menambahkan derajat intensitas dari adjective.
 
 Contoh: 
 The woman is **quite** pretty 
+
 This book is **more** interesting than last one 
+
 The weather report is **almost always** right
 
 dalam kata diatas, adverb 'always' menjelaskan kata 'right'
@@ -137,6 +169,7 @@ My cat is **incredibly** happy to have his dinner
 You can use an adverb to describe another adverb. In fact, if you wanted to, you could use several.
 
 Contoh: Phillip sings rather enormously too loudly.
+
 The problem is that it often produces weak and clunky sentences like the one above, so be careful not to overdo it.
 
 SRC: https://www.grammarly.com/blog/adverb/
@@ -287,7 +320,7 @@ adalah bahasa gaul
 
 - hey, brat, nice to meet ya
 - that brat, make a fun of me 
-- - of course you should go! yolo!
+- of course you should go! yolo!
 
 ## Kalimat sederhana 
 - Memiliki struktur yang sepadan 
@@ -322,14 +355,14 @@ Editor: Safrezi
 
 ## note
 
-Nouns name people, places, things, or ideas. 
-Pronouns take the place of nouns. 
-Verbs name actions or states of being. 
-Adjectives modify nouns. 
-Adverbs modify verbs, adjectives, and other adverbs.
-Prepositions show the relationship between a noun or a pronoun (object of the preposition) and the rest of the sentence. 
-Conjunctions connect words, phrases, or clauses. 
-Interjections are words that show emotion and are not grammatically connected to the rest of the sentence.
+- Nouns name people, places, things, or ideas. 
+- Pronouns take the place of nouns. 
+- Verbs name actions or states of being. 
+- Adjectives modify nouns. 
+- Adverbs modify verbs, adjectives, and other adverbs.
+- Prepositions show the relationship between a noun or a pronoun (object of the preposition) and the rest of the sentence. 
+- Conjunctions connect words, phrases, or clauses. 
+- Interjections are words that show emotion and are not grammatically connected to the rest of the sentence.
 
 src https://www.english-grammar-revolution.com/grammar-quizzes.html
 
