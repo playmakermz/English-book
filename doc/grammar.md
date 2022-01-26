@@ -16,6 +16,16 @@ co: arrive, rise, wait,
 
 - Linking verb : penghubung subjek dan deskripsinya Be, taste, remain 
 
+Kata yang bisa menyatakan tindakan / aksi verb bisa berubah bentuk
+
+- Base form : go 
+- Past form : went, began
+- particiople form: gone, begun
+- s Form (present tense ) [This bag will belongs to me]
+- past form (-ed)
+- present participle (-ing) : swimming, walking
+
+
 
 ## Adjective 
 
