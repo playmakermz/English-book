@@ -26,6 +26,16 @@ adalah kata benda yang tidak berwujud, hanya bisa dibayangkan
 kata sifat | kata kerja | kata benda
 --- | --- | --- |
 dullness |  recovery | friendship
+6. regular nouns 
+merupakan kata benda yang perubahan bentuk jamaknya beraturan
+(pencil, pencils), (boy, boys)
+7. irregular nouns 
+kata benda yang perubahan bentuk jamaknya tidak beraturan 
+(man,men), (ox, oxen), (foot, feet)
+8. countable noun
+noun yang masih bisa dihitung
+9. uncountable noun
+tidak dapat dihitung
 
 
 Adalah kata yang menamai sesuatu, Seperti orang, tempat, benda atau sebuah ide. 
