@@ -46,6 +46,20 @@ subject complement, object complement, appositive, atau adjective
 
 Src: https://www.grammarly.com/blog/nouns/ 
 
+## Pronoun 
+
+adalah kata yang digunakan untuk mengantikan noun 
+
+- personal = i , we , he, she
+- demonstrative = this, that, these, those 
+- interrogative = who, which, what, whom, whose 
+- indefinite = nothing, someon, anywhere, everybody
+- possesive = mine, yours, hers, his, 
+- reciprocal = each other, one another 
+- reflexive = myself, yourself, ourself, themselves
+- intensive = himself, herself, ourself, themselves
+
+
 ## Verb 
 Menunjukan tindakan atau keadaan: 
 
@@ -92,7 +106,9 @@ contoh: **don't** forget to bring money
 3. had digunakan untuk past perfect
 contoh: my grandfather **had** retired from his job
 
-**definisi** verb adalah kata yang mendeskripsikan aksi, tindakan, kondisi atau pengalaman penggunaanwaktu: ( pekerjaa yang dilakukan )
+auxilioary verb sangat membantu untuk mennetukan mood, expresi, dan pendapat
+
+definisi verb adalah kata yang mendeskripsikan aksi, tindakan, kondisi atau pengalaman penggunaanwaktu: ( pekerjaa yang dilakukan )
 - saat ini 
 - masa lalu
 - masa depan
@@ -119,8 +135,48 @@ kata kerja yang mengekpresikan sebuah tindakan (raise his hand)
 
 - modal verbs 
 helping verbs adalah kata yang sebelum 
+contoh: 
+- can 
+- may
+- must
+- shall
+- will
+- could
+- might
+- should
+- would
+
+**modal** digunakan jika kita 'percaya' akan sesuatu. bisa saja terjadi, atau tidak mungkin terjadi atau pasti 
+
+digunakan untuk bertanya sesuatu:
+- may i ask 
+- could you?
+- i can do it
+
+
 
 ## Adjective 
+
+Biasaanya berakhiran :
+- ble
+- ive 
+- ous
+- y
+
+Penempatan adjective: 
+- noun : adjective berada di belakang noun
+( stupid people, good people )
+- verb : adjective berada di depan verb 
+(budi is stupid)
+
+bentuk adjective: 
+- Base form
+- comparison form / perbandingan form 
+- superlative form 
+
+dalam superlative form biasannya ada imbuan 'the', 'most', 'best', 'acient','artifitual'
+
+participal adjective biasannya berakhiran -ed / -ing
 
 adalah kata sifat yang digunakan untuk memberi keterangan pada noun 
 / pronoun Co : sad, faithful 
@@ -375,6 +431,47 @@ Artikel ini telah tayang di Katadata.co.id dengan judul "Contoh, Syarat dan Ciri
 Penulis: Niken Aninsi
 Editor: Safrezi
 
+## post modifier
+adalah kata, phrase atau clause di dalam bahasa inggris yang memiliki fungsi sebagai adjective atau adverb yang menerangkan kata atau kelompok lain 
+
+yang memiliki fungsi sebagai adjective / adverb yang menerangkan kata. 
+
+fungsi sebgagai adjective. menerangkan noun 
+
+fungsi adverb menerangkan verb adjective / adverb lainnya 
+
+modifier yang muncul sebelum 'head' disebut premodifier
+
+post modifier adalah modifier yang muncul setelah 'head' 
+
+contoh premodifier: 'famous(modifier) detective(noun)'
+
+contoh postmodifier: 'the detective(noun) with big(modifier) glass(noun)'
+
+- **klausa** adalah inti kalimat yang biasannya terdiri dari subjek dan predikat. klausa terdiri atas dua kata saja, klausa dan frasa itu berbeda. frasa tidak memiliki predikat.
+
+ciri-ciri klausa:
+- memiliki subjek dan predikat 
+- klausa tidak diakhiri tanda baca
+
+subjek, object, dan prerdikat
+
+- subjek adalah pelaku / benda yang dibicarakan dalam kalimat 
+- object adalah sesuatu yang diberi pekerjaan / kata benda apapun yang sedang dibicarakan oleh subjek 
+- predikat adalah apa yang dilakukan / dialami oleh subjek
+
+contoh: **mita**(subjek) **membeli di pasar**(predikat)
+
+predikat dapat berupa suatu kata kerja/ sifat ( membeli, besar, kecil, bermain )
+
+dalam kalimat objek termasuk dalam predikat. objek dapat berupa kata ganti / kata benda "budi(subjek) membicarakan(predikat) dia(objek)"
+
+**kesimpulan** 
+- subjek adalah pelaku
+- objek adalah kata kerja / benda 
+- predikat adalah kata sifat / kerja
+
+
 
 ## note
 
@@ -386,6 +483,17 @@ Editor: Safrezi
 - Prepositions show the relationship between a noun or a pronoun (object of the preposition) and the rest of the sentence. 
 - Conjunctions connect words, phrases, or clauses. 
 - Interjections are words that show emotion and are not grammatically connected to the rest of the sentence.
+- figurative language adalah frasa yang berbeda dengan makna literal dari kata untuk mendapatkan pesan atau inti. seperti simile, metaphor
+- simile adalah ungkapan yang membandingkan dua konsep seperti 'like' atau 'as'
+"he was willy as a fox"
+- metaphore seperti simile tanpa kata hubung. contoh 'he was a wily fox'
+- personification membuat / mengunparakan sesuatu menjadi sifat manusia ' the wind howled'
+- hyperbole adalah melebih-lebihkan sesuatu ' i have a million thing to do'
+- idiom adalah phrase yang sering kita gunakan dan orang menggunakan bahasa yang sama akan paham 
+" he stole her thunde"
+- diction adalah pilihan penggunaan kata dan phrasa dalam ungkapan atau penulisan 
+- slang adalah bahasa gaul atau bahasa kelompok tertentu 
+
 
 src https://www.english-grammar-revolution.com/grammar-quizzes.html
 
