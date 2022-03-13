@@ -57,7 +57,15 @@ Conclusion: Maasai community are citizens of Kenya who are affected by climate c
 
 On the day Rebecca started learning about climate change, Rebecca's teacher supported and helped Rebecca understand why climate happens.
 
-<!--## Plot-->
+## Plot
+
+one very hot day, Rebecca finds her mama crying, because thinking about there's so little rain this year.
+
+At the school, Rebecca tries to learn about "climate change" in her environment. After learning the cause of climate change, Rebecca tries to convey this information to the Maasai community to take immediate action for survival.
+
+After understanding the problems faced by the Maasai community, they began to write an open letter to the president of Kenya, requesting "we cannot live with no rain" and "make a law to stop harming nature".
+
+In addition to making open letters, the Maasai community also started planting trees in front of their homes and around them to protect the environment.
 
 ## Setting
 **Place :** 
