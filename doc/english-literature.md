@@ -108,3 +108,4 @@ The moral message we get from Rebecca The Maasai's story is almost the same as M
 - M alif angga ansori 2188203094 
 - Daniel Dharma Prana 2188203014
 - Roselina Maria Narjiani 2188203106
+- Yolanda Sela A 2188203055
