@@ -2,6 +2,19 @@
 ![Rebecca, the Maasai](asset/cover.jpg)
 
 Written by oliva wood
+Published by Worldreader Ashoka
+
+### Description
+
+Rebecca, the maasai changemaker is inspired by the tru story of a young girl in kenya who was alarmed by the signs of climate change in her community. she educated herself about the problem, then galvanized her community and the government to take action.
+
+In the land of the Maasai, in Southwest Kenya, there is a girl named Rebecca.
+Rebecca lives near a large national park, where there are golden lions, and big grey elephants.
+
+Rebeccas family keep cattle, sheep and goats and depend on farming the land for food for their animals.
+Rebecca goes to school and helps her family care for the animals when she is home.
+
+Source: https://read.worldreader.org/en/Book/Details/af64b2c2-3596-4577-b819-5d1e8fdc2272?version=2
 
 ## Table of content
 1. [Theme](#theme)
@@ -90,6 +103,7 @@ The moral message we get from Rebecca The Maasai's story is almost the same as M
 ***
 
 
-### Analyst Tim for Rebecaa the 
+### literature Tim
 
-- 
+- M alif angga ansori 2188203094 
+- Daniel Dharma Prana 2188203014
