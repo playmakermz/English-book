@@ -64,8 +64,28 @@ Time : one very hot day, rebecca finds her mama crying
 
 
 ## Moral value
+The moral message we get from Rebecca The Maasai's story is almost the same as Michael Jackson's song Heal The World, here are some snippets of lyrics from the song
 
-Moral value : "When you do good, no matter what you do, there's a miracle in there"
+ There's a place in your heart
+ And I know that it is love
+ And this place it was brighter than tomorrow
+ And if you really try
+ You'll find there's no need to cry
+ In this place you'll feel there's no hurt or sorrow
+
+ There are ways to get there
+ If you care enough for the living
+ Make a little space
+ Make a better place
+
+ Heal the world
+ Make it a better place
+ For you and for me, and the entire human race
+ There are people dying
+ If you care enough for the living
+ Make a better place for you and for me
+
+ The song tells how prosperous mankind is if they can love others, the point is "when you do good, no matter what you do, there's a miracle in there"
 
 ***
 
